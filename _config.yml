@@ -1,0 +1,8 @@
+title: geeps.digital
+description: What the hell are you doing here?
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
