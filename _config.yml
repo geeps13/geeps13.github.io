@@ -1,6 +1,6 @@
 title: geeps.digital
 description: What the hell are you doing here?
-google_analytics: 
+google_analytics: true
 show_downloads: true
 theme: jekyll-theme-cayman
 
